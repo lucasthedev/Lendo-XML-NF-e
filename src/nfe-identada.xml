@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" 
+    xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe33190408323515000134650010000937711000937710">
+            <ide>
+                <cUF>33</cUF>
+                <cNF>00093771</cNF>
+                <natOp>VENDA DE MERCADORIA/SERVICO A CONSUMIDOR</natOp>
+                <mod>65</mod>
+                <serie>1</serie>
+                <nNF>93771</nNF>
+                <dhEmi>2019-04-22T13:20:09-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3305406</cMunFG>
+                <tpImp>4</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>2</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>1000</verProc>
+            </ide>
+            <emit>
+                <CNPJ>08323515000134</CNPJ>
+                <xNome>POSTO DE SERVICO 3 D DE ANTA LTDA</xNome>
+                <xFant>POSTO 3 D DE ANTA</xFant>
+                <enderEmit>
+                    <xLgr>ROD BR 393 KM 37</xLgr>
+                    <nro>S/N</nro>
+                    <xCpl>BOA VISTA</xCpl>
+                    <xBairro>ANTA</xBairro>
+                    <cMun>3305406</cMun>
+                    <xMun>SAPUCAIA</xMun>
+                    <UF>RJ</UF>
+                    <CEP>25882000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>2422721121</fone>
+                </enderEmit>
+                <IE>78292008</IE>
+                <CRT>3</CRT>
+            </emit>
+            <det nItem="1">
+                <prod>
+                    <cProd>8</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>ETANOL HIDRATADO COMBUSTIVEL</xProd>
+                    <NCM>22072019</NCM>
+                    <CEST>0200400</CEST>
+                    <indEscala>S</indEscala>
+                    <CFOP>5656</CFOP>
+                    <uCom>L</uCom>
+                    <qCom>12.5350</qCom>
+                    <vUnCom>3.9890000000</vUnCom>
+                    <vProd>50.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>L</uTrib>
+                    <qTrib>12.5350</qTrib>
+                    <vUnTrib>3.9890000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <comb>
+                        <cProdANP>810101001</cProdANP>
+                        <descANP>ETANOL HIDRATADO - ETANOL HIDRATADO COMUM</descANP>
+                        <UFCons>RJ</UFCons>
+                        <encerrante>
+                            <nBico>3</nBico>
+                            <nBomba>2</nBomba>
+                            <nTanque>3</nTanque>
+                            <vEncIni>863463.490</vEncIni>
+                            <vEncFin>863476.020</vEncFin>
+                        </encerrante>
+                    </comb>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS60>
+                            <orig>0</orig>
+                            <CST>60</CST>
+                        </ICMS60>
+                    </ICMS>
+                    <PIS>
+                        <PISNT>
+                            <CST>04</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>04</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>6</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>GASOLINA ORIGINAL COMUM</xProd>
+                    <NCM>27101259</NCM>
+                    <CEST>0600200</CEST>
+                    <indEscala>S</indEscala>
+                    <CFOP>5656</CFOP>
+                    <uCom>L</uCom>
+                    <qCom>3.0070</qCom>
+                    <vUnCom>4.9890000000</vUnCom>
+                    <vProd>15.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>L</uTrib>
+                    <qTrib>3.0070</qTrib>
+                    <vUnTrib>4.9890000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <comb>
+                        <cProdANP>320102001</cProdANP>
+                        <descANP>GASOLINA C - GASOLINA C COMUM</descANP>
+                        <UFCons>RJ</UFCons>
+                        <encerrante>
+                            <nBico>1</nBico>
+                            <nBomba>1</nBomba>
+                            <nTanque>1</nTanque>
+                            <vEncIni>962078.940</vEncIni>
+                            <vEncFin>962081.950</vEncFin>
+                        </encerrante>
+                    </comb>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS60>
+                            <orig>0</orig>
+                            <CST>60</CST>
+                        </ICMS60>
+                    </ICMS>
+                    <PIS>
+                        <PISNT>
+                            <CST>04</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>04</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="3">
+                <prod>
+                    <cProd>6</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>GASOLINA ORIGINAL COMUM</xProd>
+                    <NCM>27101259</NCM>
+                    <CEST>0600200</CEST>
+                    <indEscala>S</indEscala>
+                    <CFOP>5656</CFOP>
+                    <uCom>L</uCom>
+                    <qCom>5.0120</qCom>
+                    <vUnCom>4.9890000000</vUnCom>
+                    <vProd>25.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>L</uTrib>
+                    <qTrib>5.0120</qTrib>
+                    <vUnTrib>4.9890000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <comb>
+                        <cProdANP>320102001</cProdANP>
+                        <descANP>GASOLINA C - GASOLINA C COMUM</descANP>
+                        <UFCons>RJ</UFCons>
+                        <encerrante>
+                            <nBico>1</nBico>
+                            <nBomba>1</nBomba>
+                            <nTanque>1</nTanque>
+                            <vEncIni>962081.950</vEncIni>
+                            <vEncFin>962086.960</vEncFin>
+                        </encerrante>
+                    </comb>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS60>
+                            <orig>0</orig>
+                            <CST>60</CST>
+                        </ICMS60>
+                    </ICMS>
+                    <PIS>
+                        <PISNT>
+                            <CST>04</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>04</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>90.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>90.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>9</modFrete>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>01</tPag>
+                    <vPag>145.00</vPag>
+                </detPag>
+                <vTroco>55.00</vTroco>
+            </pag>
+            <infAdic>
+                <infCpl>Obs.:Base ICMSST: R$70.72,Valor ICMSST: R$19.16; Trib aprox: R$14,50 Federal, R$17,60 Estadual, R$0,00 Municipal Fonte:IBPT Chave: 5oi7eW;</infCpl>
+            </infAdic>
+        </infNFe>
+        <infNFeSupl>
+            <qrCode><![CDATA[http://www4.fazenda.rj.gov.br/consultaNFCe/QRCode?p=33190408323515000134650010000937711000937718|2|1|1|B495FF8F4F499B5E6CE574A97D8DE69EA82F6623]]></qrCode>
+            <urlChave>http://www.fazenda.rj.gov.br/nfce/consulta</urlChave>
+        </infNFeSupl>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#NFe33190408323515000134650010000937711000937718">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>YBjkZNHODhSerUkq18DuhXAKpfA=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>ZFvErnk/KJAhBBdK5ZNz8EPWCCYklpdZSscZbq2WlF564lb8GEtubOh7NMjDytR/DhMuk6voNaEWiYxfOy0yXXkcTsaM60gLhD/saKFGJ78HrbddomWZz5pkTlhogTvgo8D629t34M+APe2NuCtrpnNf5UkrnUCqbPsbzqajE8ctA11ZBloxvqDcbKQbCsgkrUcf3BW5vPk9MAXtpkeyXsWDnnDckXL6PZcdG8KsO90a7BMguDbOZiS1IlYw78y/36hbsdIgBwzPP08ZWiRsCDDvY3vDKOBhFSH5m+T2307QazAS90xwUR9ajsYzWbg/NUBplIeSoGYp+2qSqg3SzA==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SVRSnfce201812100936</verAplic>
+            <chNFe>33190408323515000134650010000937711000937710</chNFe>
+            <dhRecbto>2019-04-22T13:17:29-03:00</dhRecbto>
+            <nProt>333190825914153</nProt>
+            <digVal>YBjkZNHODhSerUkq18DuhXAKpfA=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
